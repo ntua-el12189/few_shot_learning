@@ -1,0 +1,14 @@
+{
+    "class_names": [
+        "001.Black_footed_Albatross",
+        "002.Laysan_Albatross",
+        "003.Sooty_Albatross",
+        "004.Groove_billed_Ani"
+    ],
+    "class_roots": [
+        "./data/CUB/images/001.Black_footed_Albatross",
+        "./data/CUB/images/002.Laysan_Albatross",
+        "./data/CUB/images/003.Sooty_Albatross",
+        "./data/CUB/images/004.Groove_billed_Ani"
+    ]
+}
